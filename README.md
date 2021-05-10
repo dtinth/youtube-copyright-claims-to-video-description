@@ -14,4 +14,4 @@
 
 2. Copy the contents and paste it into a file.
 
-3. ruby generate.rb data.json
+3. `ruby generate.rb data.json`
