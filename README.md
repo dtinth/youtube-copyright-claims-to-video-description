@@ -1,5 +1,7 @@
 # Convert YouTube copyright claims to video descriptions
 
+For music rehearsal session live streams, this script helps making the session recording easier to seek. Using received copyright claims, this script generates a video description that contains timestamps to each song.
+
 ### turns this
 
 ![](docs/images/before.png)
